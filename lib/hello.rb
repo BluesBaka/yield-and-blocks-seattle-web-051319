@@ -16,3 +16,4 @@ def hello_t(names)
   end
 end
 array
+end
