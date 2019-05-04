@@ -15,5 +15,5 @@ def hello_t(names)
     puts "Hello, #{name}"
   end
 end
-array
+    names
 end
