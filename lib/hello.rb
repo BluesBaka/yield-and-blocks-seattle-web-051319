@@ -4,7 +4,7 @@ def hello_t(array)
         puts "Hello, #{name}"
       end
     end
-  return array
+   array
 
 end
 
