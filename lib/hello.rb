@@ -3,6 +3,7 @@ def hello_t(array)
       if name.start_with?("T")
         return name
       end
+    end
   return array
 
 end
